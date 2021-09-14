@@ -11,12 +11,7 @@
 3.  [echarts 实例](https://echarts.apache.org/examples/zh/index.html)，[echarts API 文档](https://echarts.apache.org/zh/api.html#echarts)
 4.  [API接口](https://lab.isaaclin.cn/nCoV/)
 
-## 二、小组介绍及分工
-### 代码写不队
-- 汪依宁：项目搭建，编写页面结构样式
-- 林建海、李强：接口测试，根据接口返回数据渲染页面
-- 冯彦彰、李港：项目测试
-## 三、主要文件介绍
+## 二、主要文件介绍
 
 | 文件                | 作用/功能                                                              |
 | ------------------- | --------------------------------------------------------------------- |
